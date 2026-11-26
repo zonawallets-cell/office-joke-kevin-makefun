@@ -1,7 +1,10 @@
 # The Funniest Office Joke, Judged Head to Head
 
-Entry for the make.fun bounty
-`u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c`.
+[![make.fun](https://make.fun/badge/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c.svg)](https://make.fun/bounty/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c)
+[![rank](https://make.fun/badge/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c/zonawallets-cell/office-joke-kevin-makefun/rank.svg)](https://make.fun/bounty/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c)
+[![reward](https://make.fun/badge/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c/zonawallets-cell/office-joke-kevin-makefun/reward.svg)](https://make.fun/bounty/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c)
+
+Entry for the [make.fun bounty](https://make.fun/bounty/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c).
 
 ## The joke
 
